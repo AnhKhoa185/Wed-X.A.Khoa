@@ -1,4 +1,7 @@
-body,a{
+a{
+    background-color: red;
+}
+body{
     background-image: url(./img/anh...jpg);
-    color: rgb(0, 0, 0)
+    color:black;
 }
